@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewScrollBackDemo1</string>
+    <string name="person_center">个人中心</string>
+    <string name="my_friend">我的好友</string>
+    <string name="my_favorite">我的收藏</string>
+    <string name="my_share">我的分享</string>
+    <string name="email_comment">意见反馈</string>
+    <string name="my_like">我的喜欢</string>
+    <string name="my_setting">个人设置</string>
+</resources>
